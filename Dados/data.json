@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nome": "P.Prof Kumiyo.",
+        "descricao": "Pesquisadora confiavel.",
+        "salario": 9600.00,
+        "setor": "Cientista",
+        "imagem": "../Imagens/Pesquisadora_Kumiyo_1.webp"
+    },
+    {
+        "id": 2,
+        "nome": "Antonio.",
+        "descricao": "Supervisor competente.",
+        "salario": 8000.00,
+        "setor": "Supervisão",
+        "imagem": "../Imagens/SupervisorDT1.webp"
+    },
+    {
+        "id": 3,
+        "nome": "Charles.",
+        "descricao": "Supervisor dedicado.",
+        "salario": 8000.00,
+        "setor": "Supervisão",
+        "imagem": "../Imagens/SupervisorDF1.png"
+    },
+    {
+        "id": 4,
+        "nome": "Sarah.",
+        "descricao": "Vendora com boa labia.",
+        "salario": 6500.00,
+        "setor": "Vendas",
+        "imagem": "../Imagens/Vendedora1.webp"
+    },
+    {
+        "id": 11,
+        "nome": "Stanley.",
+        "descricao": "Vendedor Esperto.",
+        "salario": 6500.00,
+        "setor": "Vendas",
+        "imagem": "../Imagens/Vendedor1.webp"
+    },
+    {
+        "id": 5,
+        "nome": "Samanta.",
+        "descricao": "Vendora experiente.",
+        "salario": 6500.00,
+        "setor": "Vendas",
+        "imagem": "../Imagens/Vendedora2.webp"
+    },
+    {
+        "id": 14,
+        "nome": "Hagatha.",
+        "descricao": "Vendedora Competente.",
+        "salario": 6500.00,
+        "setor": "Vendas",
+        "imagem": "../Imagens/Vendedora3.webp"
+    },
+    {
+        "id": 13,
+        "nome": "Lucas.",
+        "descricao": "Vendedor prestativo.",
+        "salario": 65000.00,
+        "setor": "Vendas",
+        "imagem": "../Imagens/Vendedor2.webp"
+    },
+    {
+        "id": 6,
+        "nome": "Albert.",
+        "descricao": "Coxinheiro habilidoso.",
+        "salario": 5000.00,
+        "setor": "Cozinha",
+        "imagem": "../Imagens/Chef.webp"
+    },
+    {
+        "id": 7,
+        "nome": "Marta.",
+        "descricao": "Experiente e rapida.",
+        "salario": 5000.00,
+        "setor": "Limpeza",
+        "imagem": "../Imagens/Faxineira1.webp"
+    },
+    {
+        "id": 8,
+        "nome": "Scott.",
+        "descricao": "Programador respeitavel.",
+        "salario": 6000.00,
+        "setor": "Programação",
+        "imagem": "../Imagens/Programador.webp"
+    },
+    {
+        "id": 14,
+        "nome": "Roger.",
+        "descricao": "Programador misterioso.",
+        "salario": 6000.00,
+        "setor": "Programação",
+        "imagem": "../Imagens/Programador2.webp"
+    },
+    {
+        "id": 9,
+        "nome": "Simon.",
+        "descricao": "Realmente dedicado.",
+        "salario": 65000.00,
+        "setor": "Empresarial",
+        "imagem": "../Imagens/Empresario.webp"
+    },
+    {
+        "id": 10,
+        "nome": "Marcos.",
+        "descricao": "Bastante religioso.",
+        "salario": 6500.00,
+        "setor": "Empresarial",
+        "imagem": "../Imagens/Empresario2.webp"
+    },
+    {
+        "id": 12,
+        "nome": "Smith.",
+        "descricao": "Bastante rigido.",
+        "salario": 8000.00,
+        "setor": "Direção",
+        "imagem": "../Imagens/DiretorDS.webp"
+    }
+]
